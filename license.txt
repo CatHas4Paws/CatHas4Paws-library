@@ -1,0 +1,11 @@
+Creative Commons Lizenzvertrag
+Die Werke in diesem Repository von Michael Stadelmaier sind lizenziert unter einer Creative Commons Namensnennung - Keine Bearbeitungen 4.0 International Lizenz
+
+https://creativecommons.org/licenses/by-nd/4.0/
+
+
+
+Creative Commons License Agreement
+The works in this repository by Michael Stadelmaier are licensed under a Creative Commons Attribution-Non Derivative Works 4.0 International License.
+
+https://creativecommons.org/licenses/by-nd/4.0/
